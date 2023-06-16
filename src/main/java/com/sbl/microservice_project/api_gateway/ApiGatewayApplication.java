@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import com.sbl.microservice_project.api_gateway.ApiGatewayApplication;
 import org.springframework.context.annotation.Bean;
 
+
 @SpringBootApplication
 @EnableEurekaClient
 public class ApiGatewayApplication {
